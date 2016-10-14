@@ -54,6 +54,7 @@ header .banner {
    width: 85%;
    padding-bottom: 30px;s
    text-align: center;
+   overflow: hidden;
 }
 
 header .banner-text { width: 100%; }
